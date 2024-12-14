@@ -11,7 +11,7 @@
 <p align="center">
   A utility-first CSS framework for rapidly building custom user interfaces.
 </p>
-
+ 
 <p align="center">
     <a href="https://github.com/tailwindlabs/tailwindcss/actions"><img src="https://img.shields.io/github/actions/workflow/status/tailwindlabs/tailwindcss/ci.yml?branch=next" alt="Build Status"></a>
     <a href="https://www.npmjs.com/package/tailwindcss"><img src="https://img.shields.io/npm/dt/tailwindcss.svg" alt="Total Downloads"></a>
